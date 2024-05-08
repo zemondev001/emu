@@ -1,1 +1,1 @@
-http://sabastian.ddns.net:4040
+http://sabastian.ddns.net:4040/backend/auth
