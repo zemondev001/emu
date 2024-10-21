@@ -1,1 +1,1 @@
-http://mc.zemondv.xyz:4040/backend/auth
+db.blogs.zemondv.xyz
