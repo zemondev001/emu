@@ -1,1 +1,1 @@
-mc.zemondv.xyz/backend/auth
+mc.zemondv.xyz:4040/backend/auth
