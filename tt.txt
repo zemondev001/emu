@@ -1,1 +1,1 @@
-mc.zemondv.xyz:4040/backend/auth
+https://zdvbotapi.zemondv.xyz/backend/auth
