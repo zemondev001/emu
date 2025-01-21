@@ -1,1 +1,1 @@
-https://zdvbotapi.zemondv.xyz/backend/auth
+https://zdvbotapi.zdvproject.xyz/backend/auth
